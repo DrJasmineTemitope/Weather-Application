@@ -5,6 +5,10 @@ body {
 h5 {
   font-size: 15px;
 }
+
+small {
+  margin: 50px auto;
+}
 .weather-app {
   display: block;
   margin: 50px auto;
